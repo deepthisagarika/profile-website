@@ -1,0 +1,20 @@
+body {
+  background: #250536;
+  color: white;
+}
+.name-style {
+  color:#e3079a;
+  font-family:san-serif;
+  font-style:italic;
+}
+.button-1 {
+  border-radius:80px;
+  background-color:#784675;
+  color:white;
+  border-color:#4d0a2b;
+  height:30px;
+  width:120px;
+}
+.profile-image {
+  height:100px;
+}
